@@ -1,0 +1,5 @@
+echo dash==2.8.1 > requirements.txt
+echo pandas==1.5.3 >> requirements.txt
+echo plotly==5.13.1 >> requirements.txt
+echo gunicorn==20.1.0 >> requirements.txt
+# Add any other libraries your app uses

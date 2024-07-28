@@ -1,0 +1,1 @@
+echo web: gunicorn Kaurna:server > Procfile
